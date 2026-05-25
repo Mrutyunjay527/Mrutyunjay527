@@ -35,7 +35,7 @@
 <!-- Generate badges at: https://shields.io or https://skillicons.dev -->
 
 **Languages**
-![Language1](https://img.shields.io/badge/Language1-000?style=for-the-badge&logo=language1&logoColor=white)
+![Python](https://img.shields.io/badge/Language1-000?style=for-the-badge&logo=language1&logoColor=white)
 ![Language2](https://img.shields.io/badge/Language2-000?style=for-the-badge&logo=language2&logoColor=white)
 
 **Frameworks & Tools**
