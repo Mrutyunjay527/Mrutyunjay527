@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=[ YOUR TAGLINE HERE ];[ ANOTHER LINE ];[ AND ANOTHER ])](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=[ YOUR TAGLINE HERE ];[ ANOTHER LINE ];[ AND ANOTHER ])](https://git.io/typing-svg)-->
 
 </div>
 
