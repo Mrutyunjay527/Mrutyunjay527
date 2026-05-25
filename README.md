@@ -21,9 +21,9 @@
 ## ⚡ About Me
 
 ```yaml
-🌌name:       " MRUTYUUNJAY M PATIL "
-⚡role:       "ASPIRING AI & DATA ANALYST | SOFTWARE DEVELOPER ENTHUSIAST"
-🎯 Focus: AI • Blender  • Full Stack • Creative Development
+🌌name:    MRUTYUUNJAY M PATIL 
+⚡role:    ASPIRING AI & DATA ANALYST | SOFTWARE DEVELOPER ENTHUSIAST
+🎯 Focus:  AI • Blender  • Full Stack • Creative Development
 ⚔️ Fun Fact:"Learning by building ambitious projects is my favorite way to improve."
 ```
 
