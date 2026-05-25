@@ -33,18 +33,14 @@
 
 <!-- Replace or remove badges as needed -->
 <!-- Generate badges at: https://shields.io or https://skillicons.dev -->
-![My Skills](https://skillicons.dev/icons?i=python,css,html,cs,mysql,git,jupyter)
+
 **Languages**
-![Python](https://img.shields.io/badge/Language1-000?style=for-the-badge&logo=language1&logoColor=white)
-![Language2](https://img.shields.io/badge/Language2-000?style=for-the-badge&logo=language2&logoColor=white)
-
+![Languages](https://skillicons.dev/icons?i=python,cs,html,css)
 **Frameworks & Tools**
-![Tool1](https://img.shields.io/badge/Tool1-000?style=for-the-badge&logo=tool1&logoColor=white)
-![Tool2](https://img.shields.io/badge/Tool2-000?style=for-the-badge&logo=tool2&logoColor=white)
-
+![Tools](https://skillicons.dev/icons?i=git,jupyter)
 **Databases & Cloud**
-![DB1](https://img.shields.io/badge/DB1-000?style=for-the-badge&logo=db1&logoColor=white)
-![Cloud1](https://img.shields.io/badge/Cloud1-000?style=for-the-badge&logo=cloud1&logoColor=white)
+![Databases](https://skillicons.dev/icons?i=mysql)
+
 
 ---
 
