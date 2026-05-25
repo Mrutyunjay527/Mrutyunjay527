@@ -36,8 +36,10 @@
 
 **Languages**
 ![Languages](https://skillicons.dev/icons?i=python,cs,html,css)
+
 **Frameworks & Tools**
 ![Tools](https://skillicons.dev/icons?i=git,jupyter)
+
 **Databases & Cloud**
 ![Databases](https://skillicons.dev/icons?i=mysql)
 
