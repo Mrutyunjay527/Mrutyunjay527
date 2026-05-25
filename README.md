@@ -6,8 +6,8 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║        Hey, I'm  [ YOUR NAME ] 👋                        ║
-║        [ YOUR ROLE / TITLE ]                             ║
+║        Hey, I'm  [ MRUTYUNJAY. M. PATIL ] 👋                        ║
+║                             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -21,11 +21,10 @@
 ## ⚡ About Me
 
 ```yaml
-name:       "[ YOUR NAME ]"
-location:   "[ YOUR CITY, COUNTRY ]"
-role:       "[ YOUR ROLE ]"
-focus:      "[ WHAT YOU'RE CURRENTLY WORKING ON ]"
-fun_fact:   "[ A FUN FACT ABOUT YOU ]"
+🌌name:       " MRUTYUUNJAY M PATIL "
+⚡role:       "ASPIRING AI & DATA ANALYST | SOFTWARE DEVELOPER ENTHUSIAST"
+🎯 Focus: AI • Blender  • Full Stack • Creative Development
+⚔️ Fun Fact:"Learning by building ambitious projects is my favorite way to improve."
 ```
 
 ---
