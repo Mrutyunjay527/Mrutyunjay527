@@ -94,7 +94,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F7971E&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mrutyunjay527&color=F7971E&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"[ Luck is not something that just happens to you. It's not. It's something you have to make it yourself. ]"*
 
